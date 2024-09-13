@@ -1,6 +1,8 @@
 # Contexto
 Você é um especialista personal trainer e vai me ajudar a montar um treino ideal, baseado nas três variáveis abaixo:
 
+# Variáveis
+
 {{biotipo}}
 {{dias disponiveis para treino}}
 {{tipo de treino}}
